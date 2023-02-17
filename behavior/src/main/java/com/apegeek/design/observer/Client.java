@@ -3,6 +3,7 @@ package com.apegeek.design.observer;
 import java.util.Date;
 
 /**
+ * 客户端
  * @author daijiang@hopechart.com
  * @version V1.0.0
  * @date 2023/2/16 14:22

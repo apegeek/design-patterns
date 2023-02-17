@@ -1,14 +1,9 @@
 package com.apegeek.design.observer;
 
-import jdk.jfr.DataAmount;
-
 import java.util.Date;
 
 /**
- * <p>
- * <br/>
- * </p>
- *
+ * 具体对象， 被观察者的状态数据
  * @author daijiang@hopechart.com
  * @version V1.0.0
  * @date 2023/2/16 14:15*

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 被观察者
  * @author daijiang@apegeek.com
  * @version V1.0.0
  * @date 2023/2/16 14:12
